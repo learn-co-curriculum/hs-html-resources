@@ -12,3 +12,5 @@ No seriously. Google it.
 2 [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 3 [W3Schools Intro](http://www.w3schools.com/html/html_intro.asp)
+
+4 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html)
