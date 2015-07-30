@@ -1,8 +1,4 @@
----
-tags: kids, resources, html
-languages: html
-type: resource
----
+
 
 ### You don't have to memorize it all.
 <img src="https://after-school-assets.s3.amazonaws.com/google_it.png" width="200px" align="right" hspace="10"> No, seriously. Google it. Or check out these resources...
