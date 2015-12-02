@@ -10,3 +10,5 @@
 3 [W3Schools Intro](http://www.w3schools.com/html/html_intro.asp) - W3 pops up a lot when Googling topics related to HTML. They keep it short and sweet, giving you just what you need to get your HTML tags right.
 
 4 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html) - Another good walkthrough on the basics of HTML.
+
+<a href='https://learn.co/lessons/hs-html-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
