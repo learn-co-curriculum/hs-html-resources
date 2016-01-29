@@ -11,4 +11,4 @@
 
 4 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html) - Another good walkthrough on the basics of HTML.
 
-<a href='https://learn.co/lessons/hs-html-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-html-resources' title='You don't have to memorize it all.'>You don't have to memorize it all.</a> on Learn.co and start learning to code for free.</p>
